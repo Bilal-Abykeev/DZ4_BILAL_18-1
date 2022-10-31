@@ -1,0 +1,18 @@
+#btn{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+label{
+    font-family: 'Courier New', Courier, monospace;
+}
+.first_car{
+    display: flex;
+    justify-content: center;
+}
+.names{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    flex-direction: column;
+}
